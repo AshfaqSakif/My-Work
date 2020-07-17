@@ -1,0 +1,98 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+  body{
+    background-color: #281942;
+
+  }
+
+
+
+  .navbar-brand{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+  }
+  .nav-link{
+    margin-left: 20px;
+
+  }
+
+  p{
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .home-bg .btn{
+    background: #281942;
+    margin: 20px;
+  }
+  .home-img{
+    width: 100%;;
+    height: 600px;
+  }
+  .home-bg{
+    height: 600px;
+    justify-content: center;
+  }
+  .fa{
+    color: #fff000;
+    font-size: 50px;
+
+  }
+
+  #about{
+    background: #fbff0a;
+
+
+
+  }
+
+  .about-img{
+    width: 100%;
+    height: 500px;
+  }
+  .about-bg{
+
+  background: #fff;
+
+
+  }
+    .about-bg h3{
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 50px;
+    }
+    .about-btn{
+      color: #fff;
+      background: #23154f;
+
+
+    }
+    .about-bg2{
+      background: #23154f;
+      color: #fff;
+      font-size: 25px;
+      max-height: 330px;
+    }
+    .about-img2{
+      height: 330px;
+      width: 100%;
+    }
+
+  .service-bg{
+    text-align: right;
+
+
+  }
+
+#contact{
+  background: #fff000;
+
+}
+ .btn-secondary{
+   background: #23154f;
+ }
